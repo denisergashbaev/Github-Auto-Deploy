@@ -4,6 +4,6 @@
 	[{
 		"url": "https://github.com/denisergashbaev/GifMakerBot",
 		"path": "../GifMakerBot",
-		"deploy": "echo deploying"
+		"deploy": "git pull && echo deploying"
 	}]
 }
