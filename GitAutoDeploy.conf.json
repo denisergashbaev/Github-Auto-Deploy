@@ -4,6 +4,6 @@
 	[{
 		"url": "https://github.com/denisergashbaev/PreviewBot",
 		"path": "../PreviewBot",
-		"deploy": "git pull && echo deploying"
+		"deploy": "git pull && service preview-bot restart && echo deploying"
 	}]
 }
