@@ -2,8 +2,8 @@
 	"port": 8001, 
 	"repositories": 
 	[{
-		"url": "https://github.com/denisergashbaev/GifMakerBot",
-		"path": "../GifMakerBot",
+		"url": "https://github.com/denisergashbaev/PreviewBot",
+		"path": "../PreviewBot",
 		"deploy": "git pull && echo deploying"
 	}]
 }

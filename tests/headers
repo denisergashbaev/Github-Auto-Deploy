@@ -1,7 +1,0 @@
-Request URL: http://139.59.208.149:8001
-Request method: POST
-content-type: application/json
-Expect:
-User-Agent: GitHub-Hookshot/0269732
-X-GitHub-Delivery: 2a0ecb00-53d9-11e6-9433-bfaeeac89007
-X-GitHub-Event: push
